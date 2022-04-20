@@ -1,36 +1,38 @@
-# 自制病毒
+# Homemade Virus
 
-#### Description
-作者闲来无事，手贱的做了一个病毒，未来作者有空之时，一定开源
+# # # #
+The author is idle to have no matter, hand base of did a virus, not open source at present, free open source again, certain open source
 
 #### Software Architecture
-Software architecture description
+Bat, bat_to_exe package
 
-#### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+⚠ # # # # warning
+
+1. Don't mess up if you have nothing to do, and refuse to be responsible for the damage caused by your computer
+2. Take care of your roommates and don't let them mess up. I won't be responsible if they do
+3. If you are using the original, be careful and careful not to slip it, otherwise it is still not responsible
+4. The author says no responsibility means no responsibility
 
 #### Instructions
+Starter rework:
+1. Open the virus initiator
+2. Enter the first character in the brackets and press any key to continue
+3. Enjoy the virus on your computer, ha ha...
+The original:
+1. Start the initiator
+2. No
+3. Enjoy
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### Participation contribution
 
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1. The author
+2. The author
+3. Author
+4) The author
+5. GitHub warehouse and Gitee Warehouse
 
 
-#### Gitee Feature
+# # # # other
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. GetHub warehouse: https://github.com/trustedinster/somevircus
