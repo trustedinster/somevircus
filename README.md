@@ -33,6 +33,6 @@
 5.  GitHub仓库及Gitee仓库
 
 
-#### 特技
+#### 其他
 
 1. GetHub仓库：https://github.com/trustedinster/somevircus
