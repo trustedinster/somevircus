@@ -2,7 +2,7 @@
 # somevircus
 作者闲来无事，手贱的做了一个病毒，目前不开源，有空再开源，一定开源
 # 其他线路
-中国的下载太慢？给你两种办法：①前往：https://gitee.com/trustedinster/homemade-virus （gitee仓库）
+中国的下载太慢？给你X种办法：①前往：https://gitee.com/trustedinster/homemade-virus （gitee仓库）
                           ②加速器下载：github.91chi.fun加速通道:https://github.91chi.fun/https://github.com/trustedinster/somevircus.git （不行就去Gitee)
                           ③2号加速器：https://gitee.com/trustedinster/homemade-virus.git
                           ④中国发行版下载：https://gitee.com/trustedinster/homemade-virus/releases/v1.0-test
@@ -44,7 +44,7 @@ The author is idle to have no matter, hand base of did a virus, not open source 
 
 # Other lines
 
-Downloading in China is too slow? Give you two ways: (1) to: https://gitee.com/trustedinster/homemade-virus (gitee warehouse)
+Downloading in China is too slow? Give you x ways: (1) to: https://gitee.com/trustedinster/homemade-virus (gitee warehouse)
 
 (2) download accelerator: making. 91 chi. Fun acceleration channel: https://github.91chi.fun/https://github.com/trustedinster/somevircus.git (no go Gitee)
 
