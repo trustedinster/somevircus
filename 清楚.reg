@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\*\shell\用病毒打开]
+
+[-HKEY_CLASSES_ROOT\*\shell\启动注册表]

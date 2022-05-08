@@ -1,0 +1,1 @@
+regedit %~dp0\劫持电脑.reg

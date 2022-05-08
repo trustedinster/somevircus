@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell]
+
+[HKEY_CLASSES_ROOT\*\shell\用病毒打开]
+
+@="用病毒打开"
+
+Icon="F:\cty\Windows\file\.ico\Warning.ico"
+
+[HKEY_CLASSES_ROOT\*\shell\用病毒打开\command]
+
+@="cmd.exe" 
